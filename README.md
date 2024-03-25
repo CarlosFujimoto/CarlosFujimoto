@@ -1,3 +1,4 @@
+<div align="center"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=0:00B8F5,100:589AB0">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&pause=1000&color=67B5CF&center=true&vCenter=true&random=false&width=1000&height=70&lines=+Welcome!+Nice+to+meet+you!;My+name+is+Carlos+Fujimoto)](https://git.io/typing-svg)
